@@ -6,5 +6,5 @@ The conceptual and logical design phases required the identification of the enti
 The entity relationship diagram (ERD) was created with the CASE tool LucidChart.
 The normalization process covered UNF to 3NF.
 The implementation of the database is done in MySql environment.
-The CollegeDB.sql file contains all the DDL and DML SQL commands used throughout the project to create, populate and query the database.
+The CollegeDB.sql file contains all the DDL and DML SQL statements used throughout the project to create, populate and query the database.
 A dump file was also created, collegedb.sql.
